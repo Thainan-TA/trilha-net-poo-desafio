@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NcSw77DOqECJaYv2QgD0Xw4q5qkz/p6DI1J3Gq+zMh493l11yIAuuBF+wLA62//9ZG7lWHH7qGZid4zE9dMvzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thain\\source\\repos-VS\\trilha-net-poo-desafio\\trilha-net-poo-desafio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thain\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Thain\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
